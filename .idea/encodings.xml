@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://D:/java/slf4j-1.7.25" charset="UTF-8" />
+    <file url="file://D:/java/slf4j-1.7.25/integration" charset="UTF-8" />
+    <file url="file://D:/java/slf4j-1.7.25/jcl-over-slf4j" charset="UTF-8" />
+    <file url="file://D:/java/slf4j-1.7.25/jul-to-slf4j" charset="UTF-8" />
+    <file url="file://D:/java/slf4j-1.7.25/log4j-over-slf4j" charset="UTF-8" />
+    <file url="file://D:/java/slf4j-1.7.25/osgi-over-slf4j" charset="UTF-8" />
+    <file url="file://D:/java/slf4j-1.7.25/slf4j-android" charset="UTF-8" />
+    <file url="file://D:/java/slf4j-1.7.25/slf4j-api" charset="UTF-8" />
+    <file url="file://D:/java/slf4j-1.7.25/slf4j-ext" charset="UTF-8" />
+    <file url="file://D:/java/slf4j-1.7.25/slf4j-jcl" charset="UTF-8" />
+    <file url="file://D:/java/slf4j-1.7.25/slf4j-jdk14" charset="UTF-8" />
+    <file url="file://D:/java/slf4j-1.7.25/slf4j-log4j12" charset="UTF-8" />
+    <file url="file://D:/java/slf4j-1.7.25/slf4j-migrator" charset="UTF-8" />
+    <file url="file://D:/java/slf4j-1.7.25/slf4j-nop" charset="UTF-8" />
+    <file url="file://D:/java/slf4j-1.7.25/slf4j-simple" charset="UTF-8" />
+    <file url="file://D:/java/slf4j-1.7.25/slf4j-site" charset="UTF-8" />
+  </component>
+</project>
